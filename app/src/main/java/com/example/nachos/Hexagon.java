@@ -1,5 +1,5 @@
 package com.example.nachos;
 
-public class Hexagon extends shape {
+public class Hexagon extends Shape {
     
 }
